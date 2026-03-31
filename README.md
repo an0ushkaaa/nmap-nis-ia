@@ -60,11 +60,10 @@ nmap-nis-ia/
 ├── README.md
 ├── commands.md
 ├── results/
-│   ├── results.nmap
-│   ├── results.xml
-│   └── results.gnmap
-└── report/
-    └── Nmap_NIS_Report.docx
+   ├── results.nmap
+   ├── results.xml
+   └── results.gnmap
+
 ```
 
 ---
